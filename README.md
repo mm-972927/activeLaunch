@@ -9,8 +9,7 @@ A self-hosted real-time video calling platform for customer support teams. Media
 
 | Service | URL |
 |---|---|
-| Web App | https://your-app.vercel.app |
-| API Docs | https://activlaunch-backend.onrender.com/docs |
+| Web App | https://active-launch-frontend.vercel.app/ |
 
 ---
 
@@ -55,7 +54,7 @@ A self-hosted real-time video calling platform for customer support teams. Media
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/activlaunch
+git clone https://github.com/mm-972927/activeLaunch
 cd activlaunch
 ```
 
